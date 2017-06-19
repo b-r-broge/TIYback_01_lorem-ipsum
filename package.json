@@ -1,0 +1,24 @@
+{
+  "name": "tiyback_01_lorem-ipsum",
+  "version": "1.0.0",
+  "description": "Create a simple node.js app to generate paragraphs of lorem ipsum when called",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-r-broge/TIYback_01_lorem-ipsum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-r-broge/TIYback_01_lorem-ipsum/issues"
+  },
+  "homepage": "https://github.com/b-r-broge/TIYback_01_lorem-ipsum#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lorem-ipsum": "^1.0.4"
+  }
+}
